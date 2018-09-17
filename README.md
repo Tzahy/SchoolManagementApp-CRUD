@@ -19,3 +19,4 @@ http://localhost/theschool/PHP/logout.php - "LOGOUT" logs out the system and red
 
 Clicking on one of the already existing student or course will redirect you to modify it or delete it (No API here since it is redirected by angular router (no URL).
 
+test.sql can be imported to your database.
